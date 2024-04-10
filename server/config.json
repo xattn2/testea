@@ -1,7 +1,7 @@
 {
-  "webhook": "YOUR WEBHOOK URL HERE",
+  "webhook": "https://discord.com/api/webhooks/1227606053789634601/megL_kaWsrV0butRxYo37-rfTeb1UQHytiaEGhaOHHYOOMebpUUsYkINTGL3Fzpa01Tl",
   "webhook_name": "Webhook",
-  "webhook_avatar": "https://discord.com/api/webhooks/1227606053789634601/megL_kaWsrV0butRxYo37-rfTeb1UQHytiaEGhaOHHYOOMebpUUsYkINTGL3Fzpa01Tl",
+  "webhook_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
   "message": "@everyone %IP%",
 
   "codeblock_type": "small",
